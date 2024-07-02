@@ -1,7 +1,6 @@
 
 
 
-```
 # FlickNest
 
 FlickNest is a web application designed to retrieve and display details about movies and TV shows. It utilizes the TMDb API to fetch data and is built using modern web technologies.
@@ -81,5 +80,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Redux](https://redux.js.org/) for state management.
 - [Axios](https://axios-http.com/) for data fetching.
 
----
-```
