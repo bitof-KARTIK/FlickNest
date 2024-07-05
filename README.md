@@ -1,7 +1,5 @@
 # <span style="color: #FF6347;">🎬 FlickNest 🎬</span>
 
-![FlickNest Header](https://via.placeholder.com/800x200.png?text=FlickNest)
-
 Welcome to **FlickNest**, your one-stop web application for discovering and exploring movies and TV shows. Powered by the TMDb API, FlickNest offers detailed information on the latest and most popular entertainment content.
 
 ## <span style="color: #FFA500;">Table of Contents</span>
