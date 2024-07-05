@@ -75,18 +75,29 @@ FlickNest/
     ```sh
     npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## <span style="color: #8A2BE2;">📸 Screenshots</span>
+![Screenshot 2024-07-05 155252](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/2caae20f-74fb-469e-9b30-dd9c269793e4)
 
-### Home Page
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
 
-### Movies Section
-![Movies Section](https://via.placeholder.com/800x400.png?text=Movies+Section)
+![Screenshot 2024-07-05 155350](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/2d6341d0-3d84-4c7f-84c2-17629957e043)
 
-### TV Shows Section
-![TV Shows Section](https://via.placeholder.com/800x400.png?text=TV+Shows+Section)
+
+![Screenshot 2024-07-05 160317](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/f24b7d40-3d87-4baf-b7c6-a173a9cd2a97)
+
+
+![Screenshot 2024-07-05 160339](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/265ad912-8158-4a92-945f-b9a82feb22b4)
+
+![Screenshot 2024-07-05 160421](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/05eb5623-9de7-45a4-a643-99cc261b37b5)
+
+
+
+![Screenshot 2024-07-05 160436](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/aea73770-23d1-4358-a8f9-934156dccbb4)
+
+
+![Screenshot 2024-07-05 160518](https://github.com/bitof-KARTIK/FlickNest/assets/157111737/18838717-db86-4730-a927-209b163c17bb)
+
 
 ## <span style="color: #DC143C;">🤝 Contributing</span>
 
@@ -94,8 +105,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## <span style="color: #00CED1;">📜 License</span>
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
-Feel free to further customize the README as needed. Replace the placeholder image URLs with actual screenshots from your application.
